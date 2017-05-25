@@ -1,0 +1,3 @@
+rootProject.name = 'FlowdockStatusUpdater'
+
+include ':app'
